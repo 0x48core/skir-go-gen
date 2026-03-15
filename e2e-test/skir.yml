@@ -1,0 +1,7 @@
+generators:
+  - mod: ../../../dist/index.js
+    outDir: ./skirout
+    config: {}
+
+dependencies:
+  "@gepheum/skir-golden-tests": v1.0.0
